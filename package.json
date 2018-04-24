@@ -1,0 +1,25 @@
+{
+  "name": "eatdasandy",
+  "version": "2.0.0",
+  "description": "Sandwich aka \"Burger\" App to be devoured with Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillCoScofield/EatDaSandy.git"
+  },
+  "author": "Connor Scofield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillCoScofield/EatDaSandy/issues"
+  },
+  "homepage": "https://github.com/WillCoScofield/EatDaSandy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
